@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is my first text file.edited for the second time.
+=======
+This is my first text file.
+edited for test.
+>>>>>>> a942820fa13a09d33e3765c0ec338787f53c7197
